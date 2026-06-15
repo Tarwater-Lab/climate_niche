@@ -1,0 +1,1 @@
+The file 'model_code.zip' contains code for all models used in the manuscript, along with a script to run the models. The file 'model_simulation.zip' contains code for the simulation model, along with a script to run the model and check for accuracy across a range of values. 
